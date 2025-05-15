@@ -18,16 +18,14 @@ const HeroSection = () => {
         
         <div className="mt-12 flex flex-wrap justify-center gap-6 text-white">
           <div className="bg-white/20 backdrop-blur-sm p-4 rounded-lg text-center w-44">
+            <p className="text-sm">มีแหล่งท่องเที่ยวกว่า</p>
             <p className="font-bold text-2xl">2500+</p>
-            <p className="text-sm">Destinations</p>
+            <p className="text-sm">แห่ง</p>
           </div>
           <div className="bg-white/20 backdrop-blur-sm p-4 rounded-lg text-center w-44">
+            <p className="text-sm">มีผู้ใช้งานกว่า</p>
             <p className="font-bold text-2xl">10K+</p>
-            <p className="text-sm">Happy Travelers</p>
-          </div>
-          <div className="bg-white/20 backdrop-blur-sm p-4 rounded-lg text-center w-44">
-            <p className="font-bold text-2xl">150+</p>
-            <p className="text-sm">Countries</p>
+            <p className="text-sm">คน</p>
           </div>
         </div>
       </div>
